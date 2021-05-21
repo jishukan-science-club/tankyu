@@ -42,6 +42,16 @@ markdown_extensions:
     - meta
 
 nav:
-    - ホーム: index.md
+    - ホーム: https://jishukan-science-club.github.io/
+    - 部活紹介: https://jishukan-science-club.github.io/club
+    - 用具集:
+        - 器具集: https://jishukan-science-club.github.io/equip
+        - 薬品集: https://jishukan-science-club.github.io/chemi
+    - 実験集:
+        - https://jishukan-science-club.github.io/lab/
+        - 中和滴定: https://jishukan-science-club.github.io/lab/neut
+        - 酸化還元反応: https://jishukan-science-club.github.io/lab/redox
+        - 可燃性気体燃焼実験: https://jishukan-science-club.github.io/lab/hyex
+    - 研究発表: index.md
     - 2020:
         - 2020/index.md
