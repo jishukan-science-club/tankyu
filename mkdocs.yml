@@ -45,7 +45,5 @@ nav:
     - ホーム: https://jishukan-science-club.github.io/
     - 部活紹介: https://jishukan-science-club.github.io/club
     - 研究発表: index.md
-    - 2020:
-        - 2020/index.md
-    - 2019:
-        - 2019/index.md
+    - 2020: 2020/index.md
+    - 2019: 2019/index.md
